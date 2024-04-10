@@ -15,8 +15,8 @@ Project Organization
     ├── README.md          <- Project information.
     ├── data
     │   └── term.xlsx      <- Data of all the insurance company customers. 
-    ├── Notebooks          <- Notebook of the complete project
-    ├── rcode              <- Code used using rstudio. 
+    ├── Notebooks          <- Notebook of the full project.
+    ├── rcode              <- Code used in rstudio. 
     │
     └── report             <- Detailed report with recomendations to the bank. Following CRISP-DM methodolody.
 
